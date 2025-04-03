@@ -1,6 +1,3 @@
-![Metrics](https://metrics.lecoq.io/YannnExdip?template=classic&languages=1&stargazers=1&achievements=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=chartist&stargazers.worldmap=false&stargazers.worldmap.sample=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction=false&introduction.title=true&config.timezone=Asia%2FJakarta)
-
-
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
   <img src="[https://www.99updates.id/wp-content/uploads/2022/07/anime-sad-im-happy.jpg]" height=100 />
@@ -53,5 +50,5 @@ CTRL + C, CTRL + V
 <summary>&#127942 <b>GitHub Activity</b>
 </summary>
 
-![Metrics](https://metrics.lecoq.io/zeeoneofficial?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+![Metrics](https://metrics.lecoq.io/YannnExdi?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&stargazers=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=chartist&stargazers.worldmap=false&stargazers.worldmap.sample=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FJakarta)
 
