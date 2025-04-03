@@ -22,7 +22,7 @@ CTRL + C, CTRL + V
   <a href="https://youtube.com/@yann1945"><img src="https://img.shields.io/badge/YouTube-Zeeone Ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/yannexdi" /><br>
   <a name=ZeeoneOfc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/yann1945"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://www.youtube.com/channel/@yannexdi"><img src="[https://img.shields.io/youtube/channel/subscribers/UCcAE32X2VLeTVNW6UlhS38Q?style=social]" /> <br>
+  <a href="https://www.youtube.com/channel/@yannexdi"><img src="https://img.shields.io/youtube/channel/subscribers/UCcAE32X2VLeTVNW6UlhS38Q?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=yann1945&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=yann1945&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 </p>
