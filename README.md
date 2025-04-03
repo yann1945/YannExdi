@@ -44,7 +44,7 @@ CTRL + C, CTRL + V
 <summary>&#127942 <b>GitHub Awards</b>
 </summary>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=zeeoneofficial)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=YannExdi)
 
 
 <summary>&#127942 <b>GitHub Activity</b>
