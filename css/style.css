@@ -20,7 +20,7 @@ scroll-behavior:smooth
 	border-radius: 5px;
 }
 
-::-webkit-scrollbar,
+ ::-webkit-scrollbar,
  ::-webkit-scrollbar {width:0;height:0}
  @keyframes typewriter {from {width:0}to {width:12.2em}}
  @keyframes blinkTextCursor {from {border-right-color:rgba(255,255,255,.75)}to {border-right-color:transparent}}
@@ -125,7 +125,7 @@ position:relative;
 top:50%;
 border-right:2px solid rgba(255,255,255,.75);
 white-space:nowrap;
-overflow:hidden;
+overflow:auto;
 color:#94a1b2;
 font-size:13px;
 animation:typewriter 4s steps(44) 1s 1 normal both,blinkTextCursor 530ms steps(44) infinite normal
@@ -187,7 +187,7 @@ display: flex;
 flex-direction: center;
 align-items:center;
 font-size:4rem;
-overflow:hidden
+overflow:auto
 }
 
 .footer {
