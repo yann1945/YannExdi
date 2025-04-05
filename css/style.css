@@ -29,7 +29,12 @@ scroll-behavior:smooth
  @keyframes fadeInDown {from {transform:translate3d(0,-1000px,0)}to {transform:translate3d(0,0,0);
  opacity:1}}
 
-
+body {
+background-color:#16161a;
+color:#fff;
+font-family:"Poppins",sans-serif;
+animation:fadeInDown 3s
+}
 
 header nav {
 display:flex;
@@ -175,14 +180,6 @@ color:#fff
 
 html,body {
 height:100%
-}
-
-body {
-display: flex;
-flex-direction: center;
-align-items:center;
-font-size:4rem;
-overflow:hidden
 }
 
 .footer {
