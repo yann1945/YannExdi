@@ -196,6 +196,32 @@ color: #aaa;
 text-align: center;
 }
 
+.text-desk {
+	text-align: center;
+	margin-top: 40px;
+}
+
+.text-desk img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: 4px solid #6a0dad;
+	box-shadow: 0 0 10px rgba(106, 13, 173, 0.5);
+	margin-bottom: 10px;
+}
+
+.text-desk span {
+	display: block;
+	font-size: 24px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.text-desk p {
+	font-size: 14px;
+	color: #aaa;
+}
+
 .page-bg,.animation-wrapper {
 position:fixed;
 top:0;
