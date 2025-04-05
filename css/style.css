@@ -182,6 +182,14 @@ html,body {
 height:100%
 }
 
+body {
+display: flex;
+flex-direction: center;
+align-items:center;
+font-size:4rem;
+overflow:hidden
+}
+
 .footer {
 background-color: #1a1a1a;
 color: #aaa;
