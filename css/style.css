@@ -157,15 +157,6 @@ transition:.2s all;
 color:#fff
 }
 
-::-webkit-scrollbar,
-::-webkit-scrollbar {width:0;height:0}
-@keyframes typewriter {from {width:0}to {width:12.2em}}
-@keyframes blinkTextCursor {from {border-right-color:rgba(255,255,255,.75)}to {border-right-color:transparent}}
-@keyframes fadeInUp {from {transform:translate3d(0,150px,0)}to {transform:translate3d(0,0,0);
-opacity:1}}
-@keyframes fadeInDown {from {transform:translate3d(0,-1000px,0)}to {transform:translate3d(0,0,0);
-opacity:1}}
-
 html,body {
 height:100%
 }
@@ -6437,7 +6428,8 @@ font-family:Monoton;
 animation:neon1 1.5s ease-in-out infinite alternate}h4:hover {color:#F17;
 -webkit-animation:none;
 -moz-animation:none;
-animation:none}@-webkit-keyframes neon1 {from {text-shadow:0 0 10px #fff,
+animation:none}
+@-webkit-keyframes neon1 {from {text-shadow:0 0 10px #fff,
 0 0 20px #fff,
 0 0 30px #fff,
 0 0 40px #FF1177,0 0 70px #FF1177,0 0 80px #FF1177,0 0 100px #FF1177,0 0 150px #F17}to {text-shadow:0 0 5px #fff,
