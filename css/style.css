@@ -29,12 +29,7 @@ scroll-behavior:smooth
  @keyframes fadeInDown {from {transform:translate3d(0,-1000px,0)}to {transform:translate3d(0,0,0);
  opacity:1}}
 
-body {
-background-color:#16161a;
-color:#fff;
-font-family:"Poppins",sans-serif;
-animation:fadeInDown 3s
-}
+
 
 header nav {
 display:flex;
