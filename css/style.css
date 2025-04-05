@@ -20,6 +20,15 @@ scroll-behavior:smooth
 	border-radius: 5px;
 }
 
+::-webkit-scrollbar,
+ ::-webkit-scrollbar {width:0;height:0}
+ @keyframes typewriter {from {width:0}to {width:12.2em}}
+ @keyframes blinkTextCursor {from {border-right-color:rgba(255,255,255,.75)}to {border-right-color:transparent}}
+ @keyframes fadeInUp {from {transform:translate3d(0,150px,0)}to {transform:translate3d(0,0,0);
+ opacity:1}}
+ @keyframes fadeInDown {from {transform:translate3d(0,-1000px,0)}to {transform:translate3d(0,0,0);
+ opacity:1}}
+
 body {
 background-color:#16161a;
 color:#fff;
