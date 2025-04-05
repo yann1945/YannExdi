@@ -36,3 +36,38 @@ section.main4 ul li a:hover{transition:.2s all;color:#fff}::-webkit-scrollbar,::
   scrollbar-width: thin;
   scrollbar-color: #6a00ff #1e1e2f;
 }
+
+.description-section {
+  padding: 80px 20px;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  text-align: center;
+}
+
+.description-section h2 {
+  font-size: 2em;
+  margin-bottom: 15px;
+  color: #c18fff;
+  text-shadow: 0 0 10px #8e2de2;
+}
+
+.description-section p {
+  font-size: 1.1em;
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.7;
+  color: #ccc;
+}
+
+.footer {
+  background: #000;
+  text-align: center;
+  padding: 30px 10px;
+  font-size: 14px;
+  color: #aaa;
+  border-top: 1px solid #333;
+}
+
+.footer b {
+  color: #bb86fc;
+}
