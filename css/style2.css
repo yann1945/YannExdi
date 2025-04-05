@@ -1,7 +1,26 @@
-.maindesk {
-  padding: 100px 20px;
-  background-color: #fff;
-  text-align: center;
-  font-size: 1.2rem;
-  color: #333;
+/* Custom scrollbar untuk browser berbasis WebKit (Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1e1e2f; /* Biru gelap kehitaman */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(145deg, #6a00ff, #4500a0); /* Gradasi ungu ke biru gelap */
+  border-radius: 10px;
+  border: 2px solid #1e1e2f;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(145deg, #7d1eff, #5600c2);
+}
+
+/* Untuk Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #6a00ff #1e1e2f;
 }
